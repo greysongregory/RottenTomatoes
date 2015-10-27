@@ -1,0 +1,40 @@
+PODS:
+  - AFNetworking (2.6.1):
+    - AFNetworking/NSURLConnection (= 2.6.1)
+    - AFNetworking/NSURLSession (= 2.6.1)
+    - AFNetworking/Reachability (= 2.6.1)
+    - AFNetworking/Security (= 2.6.1)
+    - AFNetworking/Serialization (= 2.6.1)
+    - AFNetworking/UIKit (= 2.6.1)
+  - AFNetworking/NSURLConnection (2.6.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.1)
+  - AFNetworking/Security (2.6.1)
+  - AFNetworking/Serialization (2.6.1)
+  - AFNetworking/UIKit (2.6.1):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - BFRadialWaveHUD (1.5.3):
+    - BFRadialWaveView
+    - UIColor+BFPaperColors
+  - BFRadialWaveView (1.4.6):
+    - UIColor+BFPaperColors
+  - UIColor+BFPaperColors (1.7.1)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.6)
+  - BFRadialWaveHUD (~> 1.5.3)
+
+SPEC CHECKSUMS:
+  AFNetworking: 8e4e60500beb8bec644cf575beee72990a76d399
+  BFRadialWaveHUD: 5914e6d38ea707593d9f1bd9610c35a25fc6e921
+  BFRadialWaveView: dcf3f2b07b3993e6e748fd3489e490d94c1052a8
+  UIColor+BFPaperColors: b1efa4320e2f56c4b14f73232faf967ba0e5b4a2
+
+COCOAPODS: 0.39.0
