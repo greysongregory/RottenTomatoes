@@ -15,9 +15,6 @@ Completed user stories:
  * [x] Optional: For the large poster, load the low-res image first, switch to high-res when complete
  * [x] Optional: Customize the navigation bar.
 
-Notes:
-
-Spent some time making the UI work across multiple phone resolutions by playing around with the RelativeLayout.
 
 Walkthrough of all user stories:
 
